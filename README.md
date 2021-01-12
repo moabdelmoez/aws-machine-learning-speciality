@@ -1,4 +1,4 @@
-# A guide to AWS Machine Learning Certified - Speciality
+# A Complete guide to the exam from scratch
 
 | Name                                        | Resource                                                                                      |
 | :------------------------------------------ | :-------------------------------------------------------------------------------------------: | 
