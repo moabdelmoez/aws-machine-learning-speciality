@@ -1,5 +1,6 @@
 # A complete guide to the exam from scratch
 
+## Below is a personal view to how to prepare for the Machine Learning Specialty Exam
 
 | Name                                        | Resource                                                                                      |
 | :------------------------------------------ | :-------------------------------------------------------------------------------------------: | 
